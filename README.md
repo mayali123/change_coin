@@ -1,5 +1,5 @@
 # change_coin
-翻金币
+翻金币，在vs2019加QT 环境下编写
 ## 本软件的安装包
 下载地址：  
 [腾讯微云](https://share.weiyun.com/5fLlcb0)  
